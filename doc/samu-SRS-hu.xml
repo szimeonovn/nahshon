@@ -33,6 +33,12 @@
                 </otheraddr>
             </address>
         </author>
+        <author>
+         	<personname>
+                <surname>Szimeonov</surname>
+                <firstname>Nikolett</firstname>
+         	</personname>
+         </author>
         <edition>SAMU SRS, v. Nahshon.0.0.5</edition>
         <pubdate>2015</pubdate>
         <copyright>
@@ -379,9 +385,8 @@
                             </para>
                         </listitem>  
                         <listitem>
-                            <para>
-                                A Samut felkereső internetes csevegőktől Samu ne, vagy csak nagyon korlátozott 
-                                mértékben tanuljon.
+                            <para>A Samut felkereső internetes csevegőktől ne tanuljon ha lehetséges, vagy csak 
+                            	nagyon korlátozott mértékben.                           
                             </para>
                         </listitem>                      
                         <listitem>
@@ -628,7 +633,22 @@
                                     </textobject>
                                 </mediaobject>
                             </figure>                            
-                        </para>            
+                        </para>  
+                        <para>
+                        	<figure>
+                        		<title>Samu működési elve</title>
+                        		<mediaobject>
+                        			<imageobject>
+                        				<imagedata fileref="img/model.png" scale="55" />
+                        			</imageobject>
+                        			
+                        				<textobject>
+                        					<phrase>A működés.</phrase>
+                        				</textobject>
+                        			
+                        		</mediaobject>
+                        	</figure>
+                        </para>          
                     </section>
                 
                 </section>   
